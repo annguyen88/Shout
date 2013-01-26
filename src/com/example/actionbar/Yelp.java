@@ -1,3 +1,12 @@
+/*
+ * Project: Shout!
+ * 
+ * An Android Application
+ * Created by Andrew Nguyen
+ * December 2012
+ * 
+ */
+
 package com.example.actionbar;
 
 import android.content.Context;
