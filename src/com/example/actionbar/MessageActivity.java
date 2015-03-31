@@ -119,7 +119,7 @@ public class MessageActivity extends Activity {
     public void onToggleClicked(View view) {
 
     	String messageToSend = "This is a test";
-    	String number = "7324767729";
+    	String number = "5554561122"; //Insert phone number here
     	
         boolean on = ((ToggleButton) view).isChecked();
         
